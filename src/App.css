@@ -1,0 +1,13 @@
+/* write your css here */
+.text-stroke {
+    -webkit-text-stroke: 3px rgb(197, 184, 184);
+     -webkit-text-stroke-width: 2px; /* Stroke for webkit browsers */
+ /* General stroke for text */
+  }
+  
+  :hover/* write your css here */
+  .text-stroke {
+      -webkit-text-stroke: 3px  rgb(43, 43, 136);
+       -webkit-text-stroke-width: 2px; /* Stroke for webkit browsers */
+   /* General stroke for text */
+    }
